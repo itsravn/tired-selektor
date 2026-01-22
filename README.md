@@ -3,7 +3,6 @@
 ![FiveM](https://img.shields.io/badge/PLATFORM-FIVEM-orange?style=for-the-badge&logo=fivem&logoColor=white)
 ![Lua](https://img.shields.io/badge/LANGUAGE-LUA-blue?style=for-the-badge&logo=lua&logoColor=white)
 ![Standalone](https://img.shields.io/badge/FRAMEWORK-STANDALONE-success?style=for-the-badge)
-![License](https://img.shields.io/badge/LICENSE-MIT-lightgrey?style=for-the-badge)
 
 > "Control the night." A lightweight, kernel-level inspired vehicle headlight flasher designed for seamless integration and zero latency.
 
