@@ -28,4 +28,6 @@ Config.Keybind = 37      -- Interaction Key (Default: TAB / Input Index)
 -- [SEQUENCE SETTINGS]
 Config.FlashCount = 3    -- Total cycle count per trigger
 Config.FlashSpeed = 150  -- Thread sleep duration in ms (lower = faster)
-
+```
+---
+<p align="center">Made with ❤️ by <a href="https://github.com/itsravn">itsravn</a></p>
